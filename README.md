@@ -79,19 +79,23 @@ Consolidarnos como referentes en Latinoamérica en el diseño e implementación 
 
 
 
- ## 👥 🧑‍💼 Equipo Directivo Prometheus Code
+👥 Equipo Prometheus Code
 
-- 🧑‍🚀 **Jorge Andrés González C.** – CEO & Fundador  
-  📧 `ceo.george@prometheuscode.co`
+🧑‍🚀 Jorge Andrés González C. – CEO & Fundador
+📧 ceo.george@prometheuscode.co admin
 
-- 👩‍💻 **July Carolina Chávez Muñoz** – CTO  
-  📧 `cto.carolina@prometheuscode.co`
+👩‍💻 July Carolina Chávez Muñoz – Chief Technology Officer (CTO)
+📧 cto.carolina@prometheuscode.co  admin@prometheuscode.co
 
-- 🧑‍💼 **David Alexander Viteri** – CSO (Ventas)  
-  📧 `sales@prometheuscode.co`
+🧑‍💼 David Alexander Viteri – Chief Sales Officer (CSO)
+📧 sales@prometheuscode.co
 
-- 🤖 **Santiago Sánchez Ríos** – R&D Officer (Innovación)  
-  📧 `support@prometheuscode.co`
+🤖 Santiago Sánchez Ríos – R&D Officer (Innovación y Desarrollo)
+📧 support@prometheuscode.co
+
+🚁 Johan Galicia Vargas – Aerial Systems & Embedded Linux Specialist
+📧 drones@prometheuscode.co
+💻 Bash, Linux, ArduPilot, PX4, UAV Software
 
 ## 📫 Contacto
 
