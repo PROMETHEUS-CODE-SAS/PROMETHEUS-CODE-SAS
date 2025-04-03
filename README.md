@@ -82,7 +82,7 @@ Consolidarnos como referentes en Latinoamérica en el diseño e implementación 
 👥 Equipo Prometheus Code
 
 🧑‍🚀 Jorge Andrés González C. – CEO & Fundador
-📧 ceo.george@prometheuscode.co admin
+📧 ceo.george@prometheuscode.co admin@prometheuscode.co
 
 👩‍💻 July Carolina Chávez Muñoz – Chief Technology Officer (CTO)
 📧 cto.carolina@prometheuscode.co  admin@prometheuscode.co
