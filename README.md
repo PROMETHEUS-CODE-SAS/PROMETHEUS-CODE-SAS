@@ -85,7 +85,7 @@ Consolidarnos como referentes en Latinoamérica en el diseño e implementación 
 📧 ceo.george@prometheuscode.co admin@prometheuscode.co
 
 👩‍💻 July Carolina Chávez Muñoz – Chief Technology Officer (CTO)
-📧 cto.carolina@prometheuscode.co  admin@prometheuscode.co
+📧 cto.carolina@prometheuscode.co 
 
 🧑‍💼 David Alexander Viteri – Chief Sales Officer (CSO)
 📧 sales@prometheuscode.co
